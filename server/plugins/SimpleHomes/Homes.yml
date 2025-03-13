@@ -1,1 +1,39 @@
-
+Alagation_man:
+  Alagation's:
+    world: world
+    X: -425.89506375348856
+    Y: 64.0
+    Z: -205.58625120161923
+JacobLiterator:
+  Home:
+    world: world
+    X: -437.47345917118184
+    Y: 63.0
+    Z: -146.5090853130752
+  emerson:
+    world: world
+    X: -521.9085814121323
+    Y: 75.0
+    Z: -107.69643982711497
+  spawner:
+    world: world
+    X: -384.30000001192093
+    Y: 15.0
+    Z: -71.49843000951867
+TrainBoy888:
+  Home:
+    world: world
+    X: -521.4875000119208
+    Y: 75.0
+    Z: -103.78589839624293
+  spawn:
+    world: world
+    X: -426.83829441234883
+    Y: 63.0
+    Z: -186.4908715337319
+LTCharn11:
+  LTCharn11:
+    world: world
+    X: -390.78326380425267
+    Y: 63.0
+    Z: -174.403855572518
